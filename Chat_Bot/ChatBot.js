@@ -11,7 +11,7 @@ imageinput.accept = "image/*";
 imageinput.style.display = "none";
 document.body.appendChild(imageinput);
 
-const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyClM88slJCTuGTXBov99WlJC8D3OnfNigc";  // Use a backend instead of direct API key
+const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=gimini key";  // Use a backend instead of direct API key
 
 let user = {
     message: null,
